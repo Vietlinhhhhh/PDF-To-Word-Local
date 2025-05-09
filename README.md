@@ -1,9 +1,6 @@
 # PDF to Word Converter with Drag & Drop GUI
 
-![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-
-A user-friendly Python application that converts PDF files to Word documents (DOCX format) with both drag & drop and traditional file selection functionality.
+A user-friendly Python application that converts PDF files to Word documents (DOCX format) with both **drag & drop** and **traditional file** selection functionality.
 
 ## Features
 
@@ -24,3 +21,14 @@ A user-friendly Python application that converts PDF files to Word documents (DO
    ```bash
    git clone https://github.com/your-username/pdf-to-word-converter.git
    cd pdf-to-word-converter
+   ```
+   
+2 . 
+   ```rb
+   pip install -r requirements.txt
+   ```
+3. USAGE
+   ```rb
+   python pdf_to_word_converter.py
+   ```
+   
