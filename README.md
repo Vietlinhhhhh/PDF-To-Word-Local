@@ -24,11 +24,11 @@ A user-friendly Python application that converts PDF files to Word documents (DO
    ```
    
 2 . 
-   ```rb
+   ```bash
    pip install -r requirements.txt
    ```
 3. USAGE
-   ```rb
+   ```bash
    python pdf_to_word_converter.py
    ```
    
