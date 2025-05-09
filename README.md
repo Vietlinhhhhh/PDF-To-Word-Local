@@ -13,10 +13,6 @@ A user-friendly Python application that converts PDF files to Word documents (DO
 - **Status Updates**: Real-time feedback on conversion progress
 - **Cross-Platform**: Works on Windows, macOS, and Linux
 
-## Screenshot
-
-![Application Screenshot](screenshot.png) *(Replace with actual screenshot after uploading)*
-
 ## Installation
 
 ### Prerequisites
